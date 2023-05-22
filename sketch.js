@@ -58,7 +58,7 @@ function intervalo(){
     faixas.push([800,360])
     inter[0] = millis()
   }
-  if(millis() > inter[1]+randomNum(1000,2000)){
+  if(millis() > inter[1]+randomNum(500,3000)){
     cones.push([850,300])
     inter[1] = millis()
   }
