@@ -6,4 +6,4 @@
 <br>
 <p>OBS: Esse jogo usa as bibliotecas do p5.js.</p>
 <br>
-<p><a href="https://thehecchilles.github.io/Pneu_Saltitante/" target="_blank">[Link para Environment]</a></p>
+<p><a href="https://thehecchilles.github.io/Pneu_Saltitante/" target="_blank">[Link para Environment]</a> (Abra numa nova guia)</p>
